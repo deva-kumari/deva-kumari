@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Deva's%20Profile!&fontSize=30&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Deva's%20Profile!&fontSize=30&fontAlignY=35" />
 </p>
 
 <h1 align="center">Hi, I’m Deva 👋</h1>
