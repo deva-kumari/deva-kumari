@@ -114,25 +114,6 @@
 ---
 ---
 
-### 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/deva-kumari/PackageChain-Blockchain-Tracking">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=PackageChain-Blockchain-Tracking&theme=radical" />
-  </a>
-  <a href="https://github.com/deva-kumari/Social-Networking-Site">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Social-Networking-Site&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/deva-kumari/Breaking-Barriers-Road-to-Employment">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Breaking-Barriers-Road-to-Employment&theme=radical" />
-  </a>
-  <a href="https://github.com/deva-kumari">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Portfolio&theme=radical" />
-  </a>
-</p>
 
 
 ### 📫 Get in touch
