@@ -4,11 +4,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/maddukuri-deva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:maddukurideva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white"></a>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/maddukuri-deva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:maddukurideva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white"></a>
+ 
   <a href="https://leetcode.com/u/devakumari/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"></a>
-</p>
+
 
 </p>
 
