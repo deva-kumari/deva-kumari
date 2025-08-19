@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Deva's%20Profile!&fontSize=30&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Deva's%20Profile!&fontSize=30&fontAlignY=35" />
 </p>
 
 <h1 align="center">Hi, I’m Deva 👋</h1>
@@ -95,36 +95,37 @@
 </p>
 
 ---
-<!-- Custom Pinned Projects -->
+
 ### 📌 Featured Repositories  
 
 <p align="center">
   <a href="https://github.com/deva-kumari/devakumari-portfolio-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=devakumari-portfolio-pro&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=devakumari-portfolio-pro&theme=radical&description=Personal%20portfolio%20with%20Next.js%20and%20TailwindCSS" />
   </a>
   <a href="https://github.com/deva-kumari/PackageChain-Blockchain-Tracking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=PackageChain-Blockchain-Tracking&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=PackageChain-Blockchain-Tracking&theme=radical&description=Blockchain-based%20secure%20package%20tracking" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/deva-kumari/Encryptix-task-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task-3&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task-3&theme=radical&description=Data%20Science%20task%203%20with%20ML%20approach" />
   </a>
   <a href="https://github.com/deva-kumari/Encryptix-task2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task2&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task2&theme=radical&description=Task%202%20for%20Encryptix%20project" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/deva-kumari/Encryptix-task1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task1&theme=radical&description=Task%201%20for%20Encryptix%20project" />
   </a>
   <a href="https://github.com/deva-kumari/devakumari_cse22237">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=devakumari_cse22237&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=devakumari_cse22237&theme=radical&description=Coursework%20repository" />
   </a>
 </p>
 
+---
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -142,11 +143,8 @@
 </p>
 
 ---
----
-
-
 
 ### 📫 Get in touch
 - Portfolio: [My Portfolio](https://devakumari-portfolio-gs70xl7mv-devakumaris-projects.vercel.app)  
 - Email: [maddukurideva@gmail.com](mailto:maddukurideva@gmail.com)  
-- LinkedIn: [Maddukuri Deva](https://www.linkedin.com/in/maddukuri-deva/)
+- LinkedIn: [Maddukuri Deva](https://www.linkedin.com/in/maddukuri-deva/)  
