@@ -33,9 +33,9 @@
 
 ### 🔭 Featured Projects
 - **PackageChain – Secure Package Tracking** · *Flask, SQLite, Security*  
-  Repo: https://github.com/deva-kumari/PackageChain-Blockchain-Tracking  
+  Repo: [PackageChain-Blockchain-Tracking](https://github.com/deva-kumari/PackageChain-Blockchain-Tracking)  
 - **Social Networking Site** · *PHP, MySQL, Node.js* — **600+ users**  
-  Paper: https://www.propulsiontechjournal.com/index.php/journal/article/view/9111  
+  Paper: [Published Research](https://www.propulsiontechjournal.com/index.php/journal/article/view/9111)  
 - **Breaking Barriers: Road to Employment** · *Flask, PostgreSQL* — **2,000+ sign-ups**
 
 ---
@@ -62,12 +62,10 @@
   <a href="https://github.com/deva-kumari/PackageChain-Blockchain-Tracking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=PackageChain-Blockchain-Tracking&theme=radical" />
   </a>
-  <a href="https://github.com/deva-kumari/Softtware-engineering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Softtware-engineering&theme=radical" />
+  <a href="https://github.com/deva-kumari/Software-engineering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Software-engineering&theme=radical" />
   </a>
 </p>
-
-> Tip: You can add more pins by duplicating a card and changing the `repo=` name.
 
 ---
 
@@ -89,5 +87,6 @@
 ---
 
 ### 📫 Get in touch
-- Portfolio: https://devakumari-portfolio-gs70xl7mv-devakumaris-projects.vercel.app  
-- Email: <a href="mailto:maddukurideva@gmail.com">maddukurideva@gmail.com</a> · LinkedIn: https://www.linkedin.com/in/maddukuri-deva/
+- Portfolio: [My Portfolio](https://devakumari-portfolio-gs70xl7mv-devakumaris-projects.vercel.app)  
+- Email: [maddukurideva@gmail.com](mailto:maddukurideva@gmail.com)  
+- LinkedIn: [Maddukuri Deva](https://www.linkedin.com/in/maddukuri-deva/)
