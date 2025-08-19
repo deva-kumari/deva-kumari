@@ -57,15 +57,8 @@
 
 ---
 
-### 📌 Top Contributed Repositories
-<p align="center">
-  <a href="https://github.com/deva-kumari/PackageChain-Blockchain-Tracking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=PackageChain-Blockchain-Tracking&theme=radical" />
-  </a>
-  <a href="https://github.com/deva-kumari/Software-engineering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Software-engineering&theme=radical" />
-  </a>
-</p>
+
+
 
 ---
 
