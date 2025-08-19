@@ -95,33 +95,33 @@
 </p>
 
 ---
-
-### 📌 Pinned Projects
+<!-- Custom Pinned Projects -->
+### 📌 Featured Repositories  
 
 <p align="center">
   <a href="https://github.com/deva-kumari/devakumari-portfolio-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=devakumari-portfolio-pro&theme=radical" alt="Portfolio Pro" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=devakumari-portfolio-pro&theme=radical" />
   </a>
   <a href="https://github.com/deva-kumari/PackageChain-Blockchain-Tracking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=PackageChain-Blockchain-Tracking&theme=radical" alt="PackageChain Blockchain Tracking" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=PackageChain-Blockchain-Tracking&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/deva-kumari/Encryptix-task-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task-3&theme=radical" alt="Encryptix Task 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task-3&theme=radical" />
   </a>
   <a href="https://github.com/deva-kumari/Encryptix-task2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task2&theme=radical" alt="Encryptix Task 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task2&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/deva-kumari/Encryptix-task1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task1&theme=radical" alt="Encryptix Task 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=Encryptix-task1&theme=radical" />
   </a>
   <a href="https://github.com/deva-kumari/devakumari_cse22237">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=devakumari_cse22237&theme=radical" alt="CSE 22237 Notebook" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva-kumari&repo=devakumari_cse22237&theme=radical" />
   </a>
 </p>
 
