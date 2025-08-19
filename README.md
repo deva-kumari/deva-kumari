@@ -96,7 +96,7 @@
 
 ---
 
-### 📌 Featured Repositories  
+### 📌 Pinned Repositories  
 
 <p align="center">
   <a href="https://github.com/deva-kumari/devakumari-portfolio-pro">
